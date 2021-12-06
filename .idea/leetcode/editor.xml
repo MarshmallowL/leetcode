@@ -12,6 +12,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindAllDuplicatesInAnArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/FindAllDuplicatesInAnArray.md" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindAllDuplicatesInAnArray.java" />
+              <option name="questionId" value="442" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindAllNumbersDisappearedInAnArray.java">
           <value>
             <LeetcodeEditor>
