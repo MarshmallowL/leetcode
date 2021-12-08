@@ -40,7 +40,7 @@
   public class HIndex{
       public static void main(String[] args) {
            Solution solution = new HIndex().new Solution();
-           int[] nums = new int[]{3,0,6,1,5};
+           int[] nums = new int[]{1,3,1};
           System.out.println(solution.hIndex(nums));
       }
       //leetcode submit region begin(Prohibit modification and deletion)
@@ -59,7 +59,7 @@ class Solution {
         for (int i = n; i >= 0; i--) {
             total += sortedArray[i];
             if (total >= i){
-                return total;
+                return i;
             }
         }
         return 0;
