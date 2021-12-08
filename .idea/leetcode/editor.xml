@@ -75,6 +75,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/MinimumMovesToEqualArrayElements.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/MinimumMovesToEqualArrayElements.md" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/MinimumMovesToEqualArrayElements.java" />
+              <option name="questionId" value="453" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/P485MaxConsecutiveOnes  .java">
           <value>
             <LeetcodeEditor>
