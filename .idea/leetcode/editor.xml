@@ -30,6 +30,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindTheMiddleIndexInArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/FindTheMiddleIndexInArray.md" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindTheMiddleIndexInArray.java" />
+              <option name="questionId" value="2102" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java">
           <value>
             <LeetcodeEditor>
