@@ -165,6 +165,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/SearchInsertPosition.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/SearchInsertPosition.java" />
+              <option name="questionId" value="35" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/SetMismatch.java">
           <value>
             <LeetcodeEditor>
