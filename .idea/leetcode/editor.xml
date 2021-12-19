@@ -12,6 +12,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/DiagonalTraverse.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/DiagonalTraverse.md" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/DiagonalTraverse.java" />
+              <option name="questionId" value="498" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/FindAllDuplicatesInAnArray.java">
           <value>
             <LeetcodeEditor>
