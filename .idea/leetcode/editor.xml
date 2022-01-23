@@ -12,6 +12,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/DesignCircularQueue.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/DesignCircularQueue.md" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/DesignCircularQueue.java" />
+              <option name="questionId" value="860" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/DiagonalTraverse.java">
           <value>
             <LeetcodeEditor>
