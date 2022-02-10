@@ -41,22 +41,19 @@
 
 package com.liugs.leetcode.editor.cn;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 public class MinStack {
     public static void main(String[] args) {
-        MinStack solution = new com.liugs.leetcode.editor.cn.MinStack().new com.liugs.leetcode.editor.cn.MinStack.MinStack();
+        MyMinStack solution = new com.liugs.leetcode.editor.cn.MinStack().new MyMinStack();
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
-    class MinStack {
+    class MyMinStack {
         private Stack<Integer> stack;
         private Stack<Integer> minStack;
 
-
-        public MinStack() {
+        public MyMinStack() {
             stack = new Stack<>();
             minStack = new Stack<>();
         }
