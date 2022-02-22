@@ -128,7 +128,32 @@ public class CloneGraph {
 
     class Solution {
         public Node cloneGraph(Node node) {
-            return DFS(node, new HashMap<>());
+            return BFS(node);
+        }
+
+        private Node BFS(Node node){
+            if (node == null){
+                return null;
+            }
+            Map<Integer,Node> visited = new HashMap<>();
+            Queue<Node> queue = new LinkedList<>();
+            queue.add(node);
+            Node res = new Node(node.val,new ArrayList<>());
+            visited.put(node.val,res);
+            while (!queue.isEmpty()){
+                Node cur = queue.poll();
+                for (Node neighbor:cur.neighbors){
+                    if (visited.containsKey(neighbor.val)){
+                        visited.get(cur.val).neighbors.add(visited.get(neighbor.val));
+                    }else {
+                        Node tmpNode = new Node(neighbor.val,new ArrayList<>());
+                        visited.put(neighbor.val,tmpNode);
+                        visited.get(cur.val).neighbors.add(tmpNode);
+                        queue.add(neighbor);
+                    }
+                }
+            }
+            return res;
         }
 
         private Node DFS(Node node, Map<Integer, Node> visited) {
