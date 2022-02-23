@@ -336,6 +336,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/TargetSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/TargetSum.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com494" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/TargetSum.java" />
+              <option name="titleSlug" value="target-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/TeemoAttacking.java">
           <value>
             <LeetcodeEditor>
