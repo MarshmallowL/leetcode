@@ -138,6 +138,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/ImplementStackUsingQueues.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/ImplementStackUsingQueues.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com225" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/ImplementStackUsingQueues.java" />
+              <option name="titleSlug" value="implement-stack-using-queues" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
