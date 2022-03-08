@@ -179,6 +179,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/KeysAndRooms.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/doc/content/KeysAndRooms.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com841" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/KeysAndRooms.java" />
+              <option name="titleSlug" value="keys-and-rooms" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/liugs/leetcode/editor/cn/LongestCommonPrefix.java">
           <value>
             <LeetcodeEditor>
