@@ -55,7 +55,6 @@
 package com.liugs.leetcode.editor.cn;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class BinaryTreePreorderTraversal {
     public static void main(String[] args) {
